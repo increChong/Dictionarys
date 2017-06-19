@@ -11,9 +11,7 @@ import com.example.administrator.dictionary.R;
 
 import java.util.List;
 
-/**
- * Created by a on 2017/5/28.
- */
+
 
 public class ResultAdapter extends BaseAdapter {
     private Context context;

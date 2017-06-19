@@ -13,9 +13,7 @@ import java.util.List;
 
 import entity.Web;
 
-/**
- * Created by a on 2017/5/28.
- */
+
 
 public class WebAdapter extends BaseAdapter {
     private Context context;
