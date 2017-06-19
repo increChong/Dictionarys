@@ -16,9 +16,7 @@ import java.util.List;
 
 import entity.History;
 
-/**
- * Created by a on 2017/5/19.
- */
+
 
 public class HistoryAdapter extends BaseAdapter {
     private Context context;

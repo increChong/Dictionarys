@@ -15,9 +15,7 @@ import java.util.List;
 
 import entity.Vocabulary;
 
-/**
- * Created by a on 2017/5/28.
- */
+
 
 public class VocabularyAdapter extends BaseAdapter {
     private Context context;
